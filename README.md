@@ -6,6 +6,7 @@ Project Has A Significant Amount Of Technically Interesting Work. </h4>
 <h2>Game Description : </h2>
 <p> - Choose A Character As Astronaut Fly in Space and Need To Get Best Score of Skipping the Spikes </p>
 <p> - But You'll Die If You Hit The Spikes </p>
+<p> - Difficulty Level Increases Each Collecting 20 Point </p>
 <hr>
 <h2>Game Properties : </h2>
 <p>&nbsp;&nbsp;&nbsp; 1 - Using Pixel Art Style For Selection The Assets ( Character, Font, Planets, Ground and Spikes )</p>
