@@ -23,6 +23,8 @@ Project Has A Significant Amount Of Technically Interesting Work. </h4>
 <hr>
 <h2> Some Snippets </h2>
 
+![Logo1](https://user-images.githubusercontent.com/60596766/169457160-40c6c2d4-5692-4b28-9f88-3a5c36a36944.png)
+
 ![2d1](https://user-images.githubusercontent.com/60596766/169454198-f81de358-c0c3-4725-9ccb-31ea56eae924.png)
 
 ![2d2](https://user-images.githubusercontent.com/60596766/169454209-9c8b4271-158f-497d-baaa-1b27c5479426.png)
